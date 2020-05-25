@@ -15,7 +15,7 @@ Every year, millions of people are involved in car accidents due to distracted d
 
 ## Data
 
-The data used to carry out the project can be found on Kaggle ([link][https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview]).
+The data used to carry out the project can be found on Kaggle ([link](https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview])).
 
 ## Notebook
 
