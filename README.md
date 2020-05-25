@@ -1,6 +1,6 @@
-<h1> Advanced Machine Learning project </h1>
+<h1 align="center"> Advanced Machine Learning project </h1>
 
-<h2>Distracted Driver Detection using Deep Learning Techniques </h2>
+<h2 align="center">Distracted Driver Detection using Deep Learning Techniques </h2>
 
 ### Overview
 Every year, millions of people are involved in car accidents due to distracted driving. This report explains how it is possible to prevent this problem by exploiting Deep Learning techniques for an images classification task, mainly applying Transfer Learning through the Fine-Tuning method. Several architec- tures are compared: a basic CNN from scratch and some architectures based on a pre-trained model such as MobileNet, VGG16 and VGG19. The use of imagenet weights as initial ones is fundamental to develop a high-performance model. Moreover, to adapt the model to the problem a Sequential Model- Based Optimization is performed, allowing to achieve satisfying results on new images, demonstrating a high level of generalization.
