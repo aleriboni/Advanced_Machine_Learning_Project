@@ -20,7 +20,6 @@ The data are taken from a Kaggle challenge published on 5th April 2016 by State 
 ## Notebook
 
 TODO
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 
 ## Demo
@@ -44,7 +43,7 @@ The full video can be found at the following link: [Driver 1][Driver 1].
 The full video can be found at the following link: [Driver 2][Driver 2].
 
 ## References
-[1] NHTSA, “Distracted driving,” in https://www.nhtsa.gov/risky- driving/distracted-driving, 2018. <br>
+[1] NHTSA, “Distracted driving,” in https://www.nhtsa.gov/risky-driving/distracted-driving, 2018. <br>
 [2] LeCun and Yann, “Lenet-5, convolutional neural networks,” 2013. <br>
 [3] State-Farm, “Distracted driver detection,” in https://www.kaggle.com/c/state-farm-distracted-driver-detection/data, 2016. <br>
 [4] K. Simonyan and A. Zisserman, “Very Deep Convolutional Network for Large-Scale Image Recognition,” 2015. <br>
