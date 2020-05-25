@@ -1,6 +1,6 @@
-# Advanced Machine Learning project
+<h1> Advanced Machine Learning project </h1>
 
-## Distracted Driver Detection using Deep Learning Techniques
+<h2>Distracted Driver Detection using Deep Learning Techniques </h2>
 
 ### Overview
 Every year, millions of people are involved in car accidents due to distracted driving. This report explains how it is possible to prevent this problem by exploiting Deep Learning techniques for an images classification task, mainly applying Transfer Learning through the Fine-Tuning method. Several architec- tures are compared: a basic CNN from scratch and some architectures based on a pre-trained model such as MobileNet, VGG16 and VGG19. The use of imagenet weights as initial ones is fundamental to develop a high-performance model. Moreover, to adapt the model to the problem a Sequential Model- Based Optimization is performed, allowing to achieve satisfying results on new images, demonstrating a high level of generalization.
@@ -49,6 +49,7 @@ The full video can be found at the following link: [Driver 2][Driver 2].
 
 ## References
 
+
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
 * 0.2.0
@@ -79,14 +80,6 @@ The full video can be found at the following link: [Driver 2][Driver 2].
   * [Linkedin](https://www.linkedin.com/in/federico-signoretta-46a387160/)
   * [GitHub](https://github.com/fedesigno)
 
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
