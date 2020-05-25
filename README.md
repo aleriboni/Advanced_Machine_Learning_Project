@@ -29,19 +29,23 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Demo
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+This section presents an application of the project of two new drivers. For each frame is reported the expected class with the relative probability of belonging.
 
-```sh
-make install
-npm test
-```
+### Driver 1
 
-[![Demo Driver 1](gif/gif_driver_1.gif)](gif/gif_driver_1.gif)
-[![Demo Driver 2](gif/gif_driver_2.gif)](gif/gif_driver_2.gif)
 <p align="center">
-  <img width="460" height="300" src="gif/gif_driver_1.gif">
+  <img width="640" height="480" src="gif/gif_driver_1.gif">
 </p>
 
+The full video can be found at the following link:[Driver 1 video][Driver 1 video].
+
+### Driver 2
+
+<p align="center">
+  <img width="640" height="480" src="gif/gif_driver_2.gif">
+</p>
+
+The full video can be found at the following link:[Driver 2 video][Driver 2 video].
 
 ## References
 
@@ -80,4 +84,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[Driver 1 video]: https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/view?usp=sharing
+[Driver 2 video]: https://drive.google.com/file/d/1KKKoshRfmocFeRyme4AFAM7LnMnoBLHK/view?usp=sharing
