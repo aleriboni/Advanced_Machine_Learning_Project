@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="512" height="94" src="images/data-science.png">
+</p>
+
 <h1 align="center">Distracted Driver Detection using Deep Learning Techniques</h1>
 
 <h2 align="center">Advanced Machine Learning project</h2>
@@ -65,7 +69,7 @@ TODO
 #### Davide Sangalli - M.Sc. Data Science Student @ University of Milano-Bicocca
   * d.sangalli5@campus.unimib.it
   * [Linkedin](https://www.linkedin.com/in/davide-sangalli-867b8518a/)
-  * [GitHub](https://github.com/)
+  * [GitHub](https://github.com/dasangalli)
 
 #### Federico Signoretta - M.Sc. Data Science Student @ University of Milano-Bicocca
   * f.signoretta@campus.unimib.it
