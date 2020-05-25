@@ -15,14 +15,13 @@ Every year, millions of people are involved in car accidents due to distracted d
 
 ## Data
 
-The data used to carry out the project can be found on Kaggle ([link](https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview])).
+The data are taken from a Kaggle challenge published on 5th April 2016 by State Farm and are composed by one CSV file, a directory containing the training images and a directory containing the test images. They can be found ([here](https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview]).
 
 ## Notebook
 
 TODO
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Demo
 
