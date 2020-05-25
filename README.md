@@ -64,20 +64,20 @@ The full video can be found at the following link: [Driver 2][Driver 2].
 
 ## About us
 
-### Alessandro Riboni - M.Sc. Data Science Student @ University of Milano-Bicocca
+#### Alessandro Riboni - M.Sc. Data Science Student @ University of Milano-Bicocca
   * a.riboni2@campus.unimib.it
   * [Linkedin](https://www.linkedin.com/in/alessandro-riboni-36310a182/)
-  * [gitHub](https://github.com/aleriboni)
+  * [GitHub](https://github.com/aleriboni)
 
-### Davide Sangalli - M.Sc. Data Science Student @ University of Milano-Bicocca
-    * d.sangalli5@campus.unimib.it
-    * [Linkedin](https://www.linkedin.com/in/davide-sangalli-867b8518a/)
-    * [gitHub](https://github.com/)
+#### Davide Sangalli - M.Sc. Data Science Student @ University of Milano-Bicocca
+  * d.sangalli5@campus.unimib.it
+  * [Linkedin](https://www.linkedin.com/in/davide-sangalli-867b8518a/)
+  * [GitHub](https://github.com/)
 
-### Federico Signoretta - M.Sc. Data Science Student @ University of Milano-Bicocca
-    * f.signoretta@campus.unimib.it
-    * [Linkedin](https://www.linkedin.com/in/federico-signoretta-46a387160/)
-    * [gitHub](https://github.com/fedesigno)
+#### Federico Signoretta - M.Sc. Data Science Student @ University of Milano-Bicocca
+  * f.signoretta@campus.unimib.it
+  * [Linkedin](https://www.linkedin.com/in/federico-signoretta-46a387160/)
+  * [GitHub](https://github.com/fedesigno)
 
 
 ## Contributing
