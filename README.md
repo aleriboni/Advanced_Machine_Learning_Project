@@ -38,6 +38,9 @@ npm test
 
 [![Demo Driver 1](gif/gif_driver_1.gif)](gif/gif_driver_1.gif)
 [![Demo Driver 2](gif/gif_driver_2.gif)](gif/gif_driver_2.gif)
+<p align="center">
+  <img width="460" height="300" src="gif/gif_driver_1.gif">
+</p>
 
 
 ## References
