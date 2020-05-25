@@ -15,7 +15,7 @@ Every year, millions of people are involved in car accidents due to distracted d
 
 ## Data
 
-The data are taken from a Kaggle challenge published on 5th April 2016 by State Farm and are composed by one CSV file, a directory containing the training images and a directory containing the test images. They can be found ([here](https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview]).
+The data are taken from a Kaggle challenge published on 5th April 2016 by State Farm and are composed by one CSV file, a directory containing the training images and a directory containing the test images. They can be found [here](https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview]).
 
 ## Notebook
 
@@ -44,21 +44,14 @@ The full video can be found at the following link: [Driver 1][Driver 1].
 The full video can be found at the following link: [Driver 2][Driver 2].
 
 ## References
-
-TODO
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+[1] NHTSA, “Distracted driving,” in https://www.nhtsa.gov/risky- driving/distracted-driving, 2018.
+[2] LeCun and Yann, “Lenet-5, convolutional neural networks,” 2013.
+[3] State-Farm, “Distracted driver detection,” in https://www.kaggle.com/c/state-
+farm-distracted-driver-detection/data, 2016.
+[4] K. Simonyan and A. Zisserman, “Very Deep Convolutional Network for Large-
+Scale Image Recognition,” 2015.
+[5] A. G. Howard, M. Zhu, B. Chen, D. Kalenichenko, W. Wang, T. Weyand, M. An- dreetto, and H. Adam, “Mobilenets: Efficient convolutional neural networks for mobile vision applications,” 2017.
+[6] T. Akiba, S. Sano, T. Yanase, T. Ohta, and M. Koyama, “Optuna: A next- generation hyperparameter optimization framework,” in Proceedings of the 25rd ACM SIGKDD International Conference on Knowledge Discovery and Data Min- ing, 2019.
 
 ## About us
 
