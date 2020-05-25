@@ -10,7 +10,7 @@
   <img width="80%" src="images/1_dataset.png">
 </p>
 
-### Overview
+## Overview
 Every year, millions of people are involved in car accidents due to distracted driving. This report explains how it is possible to prevent this problem by exploiting Deep Learning techniques for an images classification task, mainly applying Transfer Learning through the Fine-Tuning method. Several architec- tures are compared: a basic CNN from scratch and some architectures based on a pre-trained model such as MobileNet, VGG16 and VGG19. The use of imagenet weights as initial ones is fundamental to develop a high-performance model. Moreover, to adapt the model to the problem a Sequential Model- Based Optimization is performed, allowing to achieve satisfying results on new images, demonstrating a high level of generalization.
 
 ## Data
@@ -21,19 +21,18 @@ The data are taken from a Kaggle challenge published on 5th April 2016 by State 
 
 TODO
 
-
 ## Demo
 
 This section presents an application of the project of two new drivers. Each demo consists of 60 randomly selected images with a constant number of frames per class. For each frame is reported the expected class with the relative probability of belonging.
 
-<h4 align="center">Driver 1</h4>
+<h3 align="center">Driver 1</h3>
 <p align="center">
   <img width="480" height="360" src="gif/gif_driver_1.gif">
 </p>
 
 The full video can be found at this [link](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/view?usp=sharing).
 
-<h4 align="center">Driver 2</h4>
+<h3 align="center">Driver 2</h3>
 <p align="center">
   <img width="480" height="360" src="gif/gif_driver_2.gif">
 </p>
