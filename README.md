@@ -44,13 +44,11 @@ The full video can be found at the following link: [Driver 1][Driver 1].
 The full video can be found at the following link: [Driver 2][Driver 2].
 
 ## References
-[1] NHTSA, “Distracted driving,” in https://www.nhtsa.gov/risky- driving/distracted-driving, 2018.
-[2] LeCun and Yann, “Lenet-5, convolutional neural networks,” 2013.
-[3] State-Farm, “Distracted driver detection,” in https://www.kaggle.com/c/state-
-farm-distracted-driver-detection/data, 2016.
-[4] K. Simonyan and A. Zisserman, “Very Deep Convolutional Network for Large-
-Scale Image Recognition,” 2015.
-[5] A. G. Howard, M. Zhu, B. Chen, D. Kalenichenko, W. Wang, T. Weyand, M. An- dreetto, and H. Adam, “Mobilenets: Efficient convolutional neural networks for mobile vision applications,” 2017.
+[1] NHTSA, “Distracted driving,” in https://www.nhtsa.gov/risky- driving/distracted-driving, 2018. <br>
+[2] LeCun and Yann, “Lenet-5, convolutional neural networks,” 2013. <br>
+[3] State-Farm, “Distracted driver detection,” in https://www.kaggle.com/c/state-farm-distracted-driver-detection/data, 2016. <br>
+[4] K. Simonyan and A. Zisserman, “Very Deep Convolutional Network for Large-Scale Image Recognition,” 2015. <br>
+[5] A. G. Howard, M. Zhu, B. Chen, D. Kalenichenko, W. Wang, T. Weyand, M. An- dreetto, and H. Adam, “Mobilenets: Efficient convolutional neural networks for mobile vision applications,” 2017. <br>
 [6] T. Akiba, S. Sano, T. Yanase, T. Ohta, and M. Koyama, “Optuna: A next- generation hyperparameter optimization framework,” in Proceedings of the 25rd ACM SIGKDD International Conference on Knowledge Discovery and Data Min- ing, 2019.
 
 ## About us
