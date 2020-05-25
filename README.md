@@ -29,7 +29,7 @@ This section presents an application of the project of two new drivers. For each
 ### Driver 1
 
 <p align="center">
-  <img width="320" height="240" src="gif/gif_driver_1.gif">
+  <img width="480" height="360" src="gif/gif_driver_1.gif">
 </p>
 
 The full video can be found at the following link: [Driver 1][Driver 1].
@@ -37,7 +37,7 @@ The full video can be found at the following link: [Driver 1][Driver 1].
 ### Driver 2
 
 <p align="center">
-  <img width="640" height="480" src="gif/gif_driver_2.gif">
+  <img width="480" height="360" src="gif/gif_driver_2.gif">
 </p>
 
 The full video can be found at the following link: [Driver 2][Driver 2].
