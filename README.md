@@ -1,28 +1,19 @@
-<h1 align="center"> Advanced Machine Learning project </h1>
+<h1 align="center">Distracted Driver Detection using Deep Learning Techniques</h1>
 
-<h2 align="center">Distracted Driver Detection using Deep Learning Techniques </h2>
+<h2 align="center">Advanced Machine Learning project</h2>
+
+![](images/1_dataset.png)
 
 ### Overview
 Every year, millions of people are involved in car accidents due to distracted driving. This report explains how it is possible to prevent this problem by exploiting Deep Learning techniques for an images classification task, mainly applying Transfer Learning through the Fine-Tuning method. Several architec- tures are compared: a basic CNN from scratch and some architectures based on a pre-trained model such as MobileNet, VGG16 and VGG19. The use of imagenet weights as initial ones is fundamental to develop a high-performance model. Moreover, to adapt the model to the problem a Sequential Model- Based Optimization is performed, allowing to achieve satisfying results on new images, demonstrating a high level of generalization.
 
-![](images/1_dataset.png)
-
 ## Data
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
+TODO
 
 ## Notebook
 
+TODO
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
@@ -49,6 +40,7 @@ The full video can be found at the following link: [Driver 2][Driver 2].
 
 ## References
 
+TODO
 
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
