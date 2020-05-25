@@ -35,10 +35,10 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
-<p align="center">
+
 [![Demo Driver 1](gif/gif_driver_1.gif)](gif/gif_driver_1.gif)
 [![Demo Driver 2](gif/gif_driver_2.gif)](gif/gif_driver_2.gif)
-</p>
+
 
 ## References
 
