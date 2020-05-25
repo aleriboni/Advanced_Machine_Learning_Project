@@ -40,7 +40,7 @@ npm test
   <iframe src="https://drive.google.com/file/d/1KKKoshRfmocFeRyme4AFAM7LnMnoBLHK/preview" width="640" height="480"></iframe>
 </section>
 
-[![Watch the video]()](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview)
+[![Watch the video](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview)](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview)
 ## References
 
 * 0.2.1
