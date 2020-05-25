@@ -35,12 +35,15 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
+
+[![Watch the video](img_00.jpg)](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview)
+
 <section>
   <iframe src="https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview" width="640" height="480"></iframe>
   <iframe src="https://drive.google.com/file/d/1KKKoshRfmocFeRyme4AFAM7LnMnoBLHK/preview" width="640" height="480"></iframe>
 </section>
 
-[<img src="https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview" width="640">](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview)
+
 ## References
 
 * 0.2.1
