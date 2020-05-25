@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="512" height="94" src="images/data-science.png">
+  <img width="256" height="47" src="images/data-science.png">
 </p>
 
 <h1 align="center">Distracted Driver Detection using Deep Learning Techniques</h1>
