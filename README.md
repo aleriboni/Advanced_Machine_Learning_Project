@@ -24,9 +24,9 @@ TODO
 
 ## Demo
 
-This section presents an application of the project of two new drivers. For each frame is reported the expected class with the relative probability of belonging.
+This section presents an application of the project of two new drivers. Each demo consists of 60 randomly selected images with a constant number of frames per class. For each frame is reported the expected class with the relative probability of belonging.
 
-### Driver 1
+#### Driver 1
 
 <p align="center">
   <img width="480" height="360" src="gif/gif_driver_1.gif">
@@ -34,7 +34,7 @@ This section presents an application of the project of two new drivers. For each
 
 The full video can be found at the following link: [Driver 1][Driver 1].
 
-### Driver 2
+#### Driver 2
 
 <p align="center">
   <img width="480" height="360" src="gif/gif_driver_2.gif">
