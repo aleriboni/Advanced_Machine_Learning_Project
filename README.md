@@ -36,7 +36,7 @@ make install
 npm test
 ```
 
-[![Watch the video](img_00.jpg)](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview)
+[![Watch the video](img_0.png)](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview)
 
 <section>
   <iframe src="https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/preview" width="640" height="480"></iframe>
