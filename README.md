@@ -37,7 +37,7 @@ This section presents an application of the project of two new drivers. For each
   <img width="640" height="480" src="gif/gif_driver_1.gif">
 </p>
 
-The full video can be found at the following link:[Driver 1 video][Driver 1 video].
+The full video can be found at the following link: [Driver 1][Driver 1].
 
 ### Driver 2
 
@@ -45,7 +45,7 @@ The full video can be found at the following link:[Driver 1 video][Driver 1 vide
   <img width="640" height="480" src="gif/gif_driver_2.gif">
 </p>
 
-The full video can be found at the following link:[Driver 2 video][Driver 2 video].
+The full video can be found at the following link: [Driver 2][Driver 2].
 
 ## References
 
@@ -63,12 +63,12 @@ The full video can be found at the following link:[Driver 2 video][Driver 2 vide
     * Work in progress
 
 ## About us
+Alessandro Riboni - 847160 - a.riboni2@campus.unimib.it Davide Sangalli - 848013 - d.sangalli5@campus.unimib.it Federico Signoretta - 847343 - f.signoretta@campus.unimib.it
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Alessandro Riboni – [@Linkedin](https://www.linkedin.com/in/alessandro-riboni-36310a182/) – a.riboni2@campus.unimib.it
+Davide Sangalli – [@Linkedin](https://www.linkedin.com/in/davide-sangalli-867b8518a/) – d.sangalli5@campus.unimib.it
+Federico Signoretta – [@Linkedin](https://www.linkedin.com/in/federico-signoretta-46a387160/) – f.signoretta@campus.unimib.it
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
 
 ## Contributing
 
@@ -84,5 +84,5 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[Driver 1 video]: https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/view?usp=sharing
-[Driver 2 video]: https://drive.google.com/file/d/1KKKoshRfmocFeRyme4AFAM7LnMnoBLHK/view?usp=sharing
+[Driver 1]: https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/view?usp=sharing
+[Driver 2]: https://drive.google.com/file/d/1KKKoshRfmocFeRyme4AFAM7LnMnoBLHK/view?usp=sharing
