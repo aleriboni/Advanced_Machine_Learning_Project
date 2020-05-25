@@ -26,21 +26,19 @@ TODO
 
 This section presents an application of the project of two new drivers. Each demo consists of 60 randomly selected images with a constant number of frames per class. For each frame is reported the expected class with the relative probability of belonging.
 
-#### Driver 1
-
+<h4 align="center">Driver 1</h4>
 <p align="center">
   <img width="480" height="360" src="gif/gif_driver_1.gif">
 </p>
 
-The full video can be found at the following link: [Driver 1][Driver 1].
+The full video can be found at this [link](https://drive.google.com/file/d/1zixpCV2qyfvxCU9fu316HdIquhn2ZlKQ/view?usp=sharing).
 
-#### Driver 2
-
+<h4 align="center">Driver 2</h4>
 <p align="center">
   <img width="480" height="360" src="gif/gif_driver_2.gif">
 </p>
 
-The full video can be found at the following link: [Driver 2][Driver 2].
+The full video can be found at this [link](https://drive.google.com/file/d/1KKKoshRfmocFeRyme4AFAM7LnMnoBLHK/view?usp=sharing).
 
 ## References
 [1] NHTSA, “Distracted driving,” in https://www.nhtsa.gov/risky-driving/distracted-driving, 2018. <br>
