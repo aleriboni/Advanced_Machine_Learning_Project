@@ -19,7 +19,16 @@ The data are taken from a Kaggle challenge published on 5th April 2016 by State 
 
 ## Notebook
 
-TODO
+* 1_create_k_folds: loads the data and creates 5-folds so that each driver is present once in the validation and four times in the training set.
+* 2_CNN_scratch: development of a convolutional neural network from scratch for the classification of drivers' actions.
+* 3_vgg16_fine_tuning: two different fine-tuning strategies from VGG16 for the classification of drivers’ actions. In the first one, the last block of VGG16 and the extra_layers are trained. Instead, in the second one the last two blocks of VGG16 and the extra_layers are trained.
+* 4_vgg19_fine_tuning: two different fine-tuning strategies from VGG19 for the classification of drivers’ actions. In the first one, the last block of VGG19 and the extra_layers are trained. Instead, in the second one the last two blocks of VGG19 and the extra_layers are trained.
+* 5_mobilenet_fine_tuning: the MobileNet is entirely trained including the extra_layers for the classification of drivers' actions.
+* 6_optimization_5Fold_mobilenet: optimization of the best model using SMBO.
+* 7_best_config_mobilenet_fine_tuning: training of the model with the best configuration of parameters selected through SMBO.
+* 8_test_submission: prediction on the test images and creation of csv file for the Kaggle submission to obtain the Log Loss score.
+* s9_predict_demo: prediction of the images of two drivers to create a small demo of the project.
+
 
 ## Demo
 
